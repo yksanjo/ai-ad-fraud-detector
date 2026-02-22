@@ -1,10 +1,10 @@
-# AI Ad Fraud Detector
+# ai-ad-fraud-detector
 
-Detect invalid traffic, click farms, and synthetic engagement fraud.
+## Detailed Description
 
 ## Vertical
 
-internet
+## Problem Statement
 
 ## Production MVP Deliverables
 
